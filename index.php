@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "hi3";exit;
+echo "hi3";
 ?>
