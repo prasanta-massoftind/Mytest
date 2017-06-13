@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "test with final";
+echo "test with final";exit;
 ?>
